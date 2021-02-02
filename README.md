@@ -1,1 +1,1 @@
-# dota
+# DOTA news project
